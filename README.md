@@ -78,9 +78,8 @@ Here are some **ad-hoc** business questions answered using SQL:
 
 ### 9️⃣ Actor & Casting Insights  
 - How many movies has each actor appeared in?  
-- Can we list all actors and the movies they have starred in?  
+- Can we list all the starred actors in the movies?  
 - Customers often ask which films their favorite actors appear in. Can we generate a list of all actors with each title they appear in?  
-- Which actors appear in the highest number of movies in our collection? 
 
 ## 📈 Insights & Findings
 - The **top 10 highest-grossing movies** contribute **30% of total revenue**.
