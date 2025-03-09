@@ -21,6 +21,13 @@ revenue growth, customer retention, and inventory optimization.
 ## 🛠️ Tools & Technologies
 - **Database:**  MySQL
 - **Query Language:** SQL
+<img src="IMAGES/mysql logo.png" alt="mysql_img.png" width="200"/> &nbsp;
+
+# Project Result
+
+[Click here to get full code](https://github.com/Ritikrb126/Maven-Movie-Rental-Analysis/blob/main/maven%20movie%20rental%20project.sql)
+
+
 
 ## 🔍 Dataset Overview
 The **Maven Movie Rental Database** contains tables related to:
@@ -40,11 +47,11 @@ Here are some **ad-hoc** business questions answered using SQL:
   <img src="IMAGES/DISTRIBUTION WRT RENTAL RATE.png" alt="email.png" width="400"/> &nbsp;
   
 - Do movies with higher replacement costs have higher rental rates?  
-<img src="./IMAGES/email.png" alt="email.png" width="400"/> &nbsp;
+<img src="IMAGES/REPLACEMENT COST ANALYSIS.png" alt="email.png" width="400"/> &nbsp;
 
 ### 2️⃣ Movie Ratings & Performance  
 - Which movie rating category has the highest number of films?
-  <img src="./IMAGES/email.png" alt="email.png" width="400"/> &nbsp;
+  <img src="IMAGES/RATING.png" alt="email.png" width="400"/> &nbsp;
   
 - What is the most common movie rating in each store?
   <img src="IMAGES/STORE WISE DISTRIBUTION ACROSS RATING.png" alt="email.png" width="400"/> &nbsp;
@@ -132,16 +139,11 @@ Here are some **ad-hoc** business questions answered using SQL:
 - Customers often ask which films their favorite actors appear in. Can we generate a list of all actors with each title they appear in?
   <img src="IMAGES/CUSTOMER FAV.png" alt="email.png" width="400"/> &nbsp;
 
-## 📈 Insights & Findings
-- The **top 10 highest-grossing movies** contribute **30% of total revenue**.
-- **Customers renting more than 30 times** account for **50% of total sales**.
-- **Action and Comedy** are the **most popular genres**, contributing to **40% of total rentals**.
-- Store 1 has a **higher revenue** but **fewer customers**, while Store 2 has **more customers but lower revenue per rental**.
 
 ## 📌 How to Use This Repository
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-github-username/maven-movie-rental-analysis.git
+   git clone https://github.com/Ritikrb126/Maven-Movie-Rental-Analysis
    ```
 2. Open the SQL file and execute queries on your database.
 3. Modify queries based on additional business requirements.
@@ -150,9 +152,8 @@ Here are some **ad-hoc** business questions answered using SQL:
 Feel free to contribute by improving queries, adding visualizations, or suggesting new analysis!
 
 ## 📩 Contact
-📧 **Your Name**  
-🔗 **[LinkedIn Profile](https://linkedin.com/in/your-profile)**  
-🔗 **[GitHub Profile](https://github.com/your-github-username)**  
+📧 **Ritik Bhoyar**   
+🔗 **[GitHub Profile](https://github.com/Ritikrb126)**  
 
 ---
 
